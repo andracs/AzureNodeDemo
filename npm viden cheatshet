@@ -1,0 +1,11 @@
+Node kræver 2 filer: 
+package.json, *.js (f.eks. app.js, index.js, main.js eller hest.js)
+
+npm init - laver en package.json (wizard)
+npm install - installerer alle dependencies
+npm install x - installer modul x
+npm uninstall - den fjerner både pakken og dependencies, også fra package.json
+npm start - starter den "scripts" "start" i package.json 
+
+.gitignore - husk node-modules og passwords
+

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5c5cbbe2-e489-4a9c-b745-df315a7b20ef/resourceGroups/acsandras/providers/Microsoft.Web/sites/acsandras",
+    "appService.deploySubpath": "."
+}
